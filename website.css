@@ -1,0 +1,13 @@
+h1{
+  color:blue; text-align:center;
+}
+body{
+  background-color: lightblue; text-align:center; border-style: dotted;
+   font-family:courier;
+}
+#myPic {
+  display: none;
+  width:20%;
+  padding-left:40%;
+  padding-right:40%;
+}
